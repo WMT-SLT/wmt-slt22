@@ -1,0 +1,2336 @@
+Character based=False
+Quality control=False
+Setting REQUIRED_SEGS=100
+Loading docs from slttest2022.dsgs-de.all.xml
+Extracted 6 document(s) containing 488 sentences in dsgs
+Selecting the following documents only:
+  ('srf.0', 1, 13)
+  ('srf.0', 14, 26)
+  ('srf.0', 27, 38)
+  ('srf.0', 39, 50)
+  ('srf.0', 51, 62)
+  ('srf.0', 63, 74)
+  ('srf.0', 75, 86)
+  ('srf.0', 87, 98)
+  ('srf.0', 99, 110)
+  ('srf.0', 111, 122)
+  ('srf.0', 123, 134)
+  ('srf.0', 135, 146)
+  ('srf.0', 147, 158)
+  ('srf.0', 159, 170)
+  ('srf.0', 171, 182)
+  ('srf.0', 183, 194)
+  ('srf.0', 195, 206)
+  ('srf.0', 207, 218)
+  ('srf.0', 219, 230)
+  ('srf.0', 231, 242)
+  ('focusnews.1', 1, 11)
+  ('focusnews.1', 12, 22)
+  ('focusnews.1', 23, 33)
+  ('focusnews.1', 34, 44)
+  ('focusnews.2', 1, 12)
+  ('focusnews.2', 13, 24)
+  ('focusnews.2', 25, 36)
+  ('focusnews.2', 37, 48)
+  ('focusnews.3', 1, 11)
+  ('focusnews.3', 12, 22)
+  ('focusnews.3', 23, 33)
+  ('focusnews.3', 34, 43)
+  ('focusnews.4', 1, 13)
+  ('focusnews.4', 14, 25)
+  ('focusnews.4', 26, 37)
+  ('focusnews.4', 38, 49)
+  ('focusnews.5', 1, 13)
+  ('focusnews.5', 14, 26)
+  ('focusnews.5', 27, 38)
+  ('focusnews.5', 39, 50)
+  ('focusnews.5', 51, 62)
+Using reference "A"
+Adding reference "A" as system output "translator-A"
+SYS IDS size: 8
+Generating bad references for DFKI-MLT
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for MSMunich
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for SLATTIC
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for UPC
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for UZH-test
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for dfki
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for njupt-mtt
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Generating bad references for translator-A
+doc_id: srf.0#1-13,	doc_len: 13
+doc_id: srf.0#14-26,	doc_len: 13
+doc_id: srf.0#27-38,	doc_len: 12
+doc_id: srf.0#39-50,	doc_len: 12
+doc_id: srf.0#51-62,	doc_len: 12
+doc_id: srf.0#63-74,	doc_len: 12
+doc_id: srf.0#75-86,	doc_len: 12
+doc_id: srf.0#87-98,	doc_len: 12
+doc_id: srf.0#99-110,	doc_len: 12
+doc_id: srf.0#111-122,	doc_len: 12
+doc_id: srf.0#123-134,	doc_len: 12
+doc_id: srf.0#135-146,	doc_len: 12
+doc_id: srf.0#147-158,	doc_len: 12
+doc_id: srf.0#159-170,	doc_len: 12
+doc_id: srf.0#171-182,	doc_len: 12
+doc_id: srf.0#183-194,	doc_len: 12
+doc_id: srf.0#195-206,	doc_len: 12
+doc_id: srf.0#207-218,	doc_len: 12
+doc_id: srf.0#219-230,	doc_len: 12
+doc_id: srf.0#231-242,	doc_len: 12
+doc_id: focusnews.1#1-11,	doc_len: 11
+doc_id: focusnews.1#12-22,	doc_len: 11
+doc_id: focusnews.1#23-33,	doc_len: 11
+doc_id: focusnews.1#34-44,	doc_len: 11
+doc_id: focusnews.2#1-12,	doc_len: 12
+doc_id: focusnews.2#13-24,	doc_len: 12
+doc_id: focusnews.2#25-36,	doc_len: 12
+doc_id: focusnews.2#37-48,	doc_len: 12
+doc_id: focusnews.3#1-11,	doc_len: 11
+doc_id: focusnews.3#12-22,	doc_len: 11
+doc_id: focusnews.3#23-33,	doc_len: 11
+doc_id: focusnews.3#34-43,	doc_len: 10
+doc_id: focusnews.4#1-13,	doc_len: 13
+doc_id: focusnews.4#14-25,	doc_len: 12
+doc_id: focusnews.4#26-37,	doc_len: 12
+doc_id: focusnews.4#38-49,	doc_len: 12
+doc_id: focusnews.5#1-13,	doc_len: 13
+doc_id: focusnews.5#14-26,	doc_len: 13
+doc_id: focusnews.5#27-38,	doc_len: 12
+doc_id: focusnews.5#39-50,	doc_len: 12
+doc_id: focusnews.5#51-62,	doc_len: 12
+Example: njupt-mtt srf.0#207-218
+(207, 'Es ist ein Verhüllungsverbot, den ich überzeugt hatte, dass ich sehr viel und viel Erfahrung macht.')
+(207, 'Es ist ein Verhüllungsverbot, den es Lonza gut, profitierte auch sehr viel und viel Erfahrung macht.')
+---
+(208, 'Das wars von FOCUSNEWS.')
+(208, 'Das auf ihre FOCUSNEWS.')
+---
+(209, 'Bereits seit 2006 werden erstmals die Deaflympics in der Schweiz gestartet.')
+(209, 'Bereits seit am Freitagabend, 9. Dezember Deaflympics in der Schweiz gestartet.')
+---
+(210, 'Am 1. Mai soll informiert werden, dass diese Schule den Bedürfnissen der behinderten Menschen ohne psychosoziale Gebärdensprachdolmetscher gezeigt wurde.')
+(210, 'übernimmt die Kosten für Massentests werden, dass diese Schule den Bedürfnissen der behinderten Menschen ohne psychosoziale Gebärdensprachdolmetscher gezeigt wurde.')
+---
+(211, 'Doch der Bundesrat wird sich heute der Entscheid getroffen.')
+(211, 'Doch aus Risikogebieten braucht es heute der Entscheid getroffen.')
+---
+(212, 'Bis nächste Woche.')
+(212, 'Bis nächste Woche.')
+---
+(213, 'Das wird sich wegen der Corona-Krise in der Schweiz ändern.')
+(213, 'Das nur, aber auch wegen Corona-Krise in der Schweiz ändern.')
+---
+(214, 'Bald, in der Schweiz wird vorderst noch nicht klar, dass ein öffentlicher Dialog zu den Schweizer Sportlern kommt.')
+(214, 'Bald, in der Schweiz wird vorderst noch nicht klar, dass Willkommen zu FOCUSNEWS Schweizer Sportlern kommt.')
+---
+(215, 'Bis nächste Woche.')
+(215, 'Nathalie Christen Woche.')
+---
+(216, 'Und in der Westschweiz steigen die Fallzahlen wieder an.')
+(216, 'Und dank vieler Tests wirklich die Fallzahlen wieder an.')
+---
+(217, 'Vor zwei Wochen fand in Berlin, in Deutschland, dass eine gehörlose Kinder für hörbehinderte Kinder angestellt haben muss.')
+(217, 'Vor zwei Wochen fand in Berlin, Marzia Brunner, Linus Eugster, Heather Kinder für hörbehinderte Kinder angestellt haben muss.')
+---
+(218, 'Dann müsste der ICSD Präsident, der International Committee of of Sports for the Deaf, auf der Homepage www.deaflympics.ch')
+(218, 'Dann müsste der ICSD Präsident, der International Arbeit treten immer wieder Komplikationen the Deaf, auf der Homepage www.deaflympics.ch')
+---
+Doc. stats (doc.len/count): odict_keys([13, 12, 11, 10])
+  13:	40
+  12:	224
+  11:	56
+  10:	8
+total docs: 328
+total sys: {'njupt-mtt', 'translator-A', 'MSMunich', 'dfki', 'UZH-test', 'SLATTIC', 'DFKI-MLT', 'UPC'}
+  #segments in current task: 92
+    (11, 'focusnews.1#1-11', 'translator-A')
+    (10, 'focusnews.3#34-43', 'UPC')
+    (13, 'srf.0#1-13', 'UPC')
+    (12, 'srf.0#27-38', 'translator-A')
+    (13, 'focusnews.5#1-13', 'MSMunich')
+    (11, 'focusnews.1#12-22', 'SLATTIC')
+    (10, 'focusnews.3#34-43', 'translator-A')
+    (12, 'srf.0#195-206', 'UZH-test')
+------
+  #segments in current task: 93
+    (10, 'focusnews.3#34-43', 'MSMunich')
+    (11, 'focusnews.1#1-11', 'DFKI-MLT')
+    (12, 'srf.0#99-110', 'UZH-test')
+    (11, 'focusnews.1#23-33', 'MSMunich')
+    (13, 'focusnews.5#1-13', 'DFKI-MLT')
+    (12, 'focusnews.5#27-38', 'UZH-test')
+    (12, 'focusnews.2#1-12', 'UPC')
+    (12, 'srf.0#123-134', 'SLATTIC')
+------
+  #segments in current task: 94
+    (13, 'srf.0#1-13', 'SLATTIC')
+    (11, 'focusnews.1#12-22', 'njupt-mtt')
+    (13, 'focusnews.5#14-26', 'translator-A')
+    (11, 'focusnews.1#12-22', 'DFKI-MLT')
+    (11, 'focusnews.3#1-11', 'njupt-mtt')
+    (13, 'srf.0#14-26', 'UPC')
+    (10, 'focusnews.3#34-43', 'dfki')
+    (12, 'focusnews.2#25-36', 'DFKI-MLT')
+------
+  #segments in current task: 93
+    (12, 'srf.0#27-38', 'SLATTIC')
+    (13, 'focusnews.4#1-13', 'SLATTIC')
+    (10, 'focusnews.3#34-43', 'UZH-test')
+    (10, 'focusnews.3#34-43', 'DFKI-MLT')
+    (12, 'srf.0#219-230', 'SLATTIC')
+    (13, 'focusnews.4#1-13', 'dfki')
+    (13, 'focusnews.4#1-13', 'DFKI-MLT')
+    (10, 'focusnews.3#34-43', 'SLATTIC')
+------
+  #segments in current task: 96
+    (13, 'srf.0#14-26', 'DFKI-MLT')
+    (13, 'srf.0#14-26', 'translator-A')
+    (12, 'srf.0#63-74', 'UPC')
+    (12, 'focusnews.4#26-37', 'dfki')
+    (13, 'srf.0#14-26', 'njupt-mtt')
+    (10, 'focusnews.3#34-43', 'njupt-mtt')
+    (12, 'srf.0#99-110', 'MSMunich')
+    (11, 'focusnews.3#12-22', 'DFKI-MLT')
+------
+  #segments in current task: 91
+    (12, 'srf.0#123-134', 'MSMunich')
+    (12, 'srf.0#111-122', 'translator-A')
+    (12, 'focusnews.5#27-38', 'DFKI-MLT')
+    (11, 'focusnews.1#23-33', 'SLATTIC')
+    (11, 'focusnews.1#23-33', 'translator-A')
+    (11, 'focusnews.3#12-22', 'UPC')
+    (11, 'focusnews.3#1-11', 'translator-A')
+    (11, 'focusnews.1#23-33', 'UPC')
+------
+  #segments in current task: 97
+    (13, 'srf.0#1-13', 'UZH-test')
+    (11, 'focusnews.1#23-33', 'UZH-test')
+    (13, 'focusnews.5#14-26', 'SLATTIC')
+    (13, 'srf.0#1-13', 'DFKI-MLT')
+    (11, 'focusnews.3#23-33', 'UPC')
+    (12, 'focusnews.2#13-24', 'njupt-mtt')
+    (13, 'focusnews.5#14-26', 'UZH-test')
+    (11, 'focusnews.3#12-22', 'MSMunich')
+------
+  #segments in current task: 97
+    (13, 'srf.0#1-13', 'MSMunich')
+    (12, 'srf.0#63-74', 'dfki')
+    (11, 'focusnews.3#1-11', 'SLATTIC')
+    (11, 'focusnews.1#1-11', 'SLATTIC')
+    (13, 'focusnews.5#1-13', 'UZH-test')
+    (13, 'focusnews.5#1-13', 'dfki')
+    (12, 'focusnews.4#14-25', 'translator-A')
+    (12, 'focusnews.2#13-24', 'DFKI-MLT')
+------
+  #segments in current task: 97
+    (13, 'srf.0#1-13', 'dfki')
+    (12, 'srf.0#159-170', 'njupt-mtt')
+    (13, 'focusnews.4#1-13', 'UPC')
+    (13, 'srf.0#1-13', 'njupt-mtt')
+    (11, 'focusnews.1#34-44', 'njupt-mtt')
+    (11, 'focusnews.1#23-33', 'njupt-mtt')
+    (12, 'srf.0#135-146', 'UPC')
+    (12, 'srf.0#99-110', 'translator-A')
+------
+  #segments in current task: 93
+    (11, 'focusnews.3#23-33', 'SLATTIC')
+    (11, 'focusnews.3#12-22', 'SLATTIC')
+    (11, 'focusnews.1#1-11', 'UZH-test')
+    (11, 'focusnews.3#23-33', 'UZH-test')
+    (13, 'focusnews.4#1-13', 'njupt-mtt')
+    (12, 'focusnews.2#1-12', 'dfki')
+    (12, 'srf.0#231-242', 'UPC')
+    (12, 'srf.0#27-38', 'dfki')
+------
+  #segments in current task: 91
+    (12, 'srf.0#183-194', 'UZH-test')
+    (12, 'focusnews.4#26-37', 'UZH-test')
+    (11, 'focusnews.1#34-44', 'UZH-test')
+    (11, 'focusnews.3#1-11', 'dfki')
+    (11, 'focusnews.1#1-11', 'njupt-mtt')
+    (11, 'focusnews.3#1-11', 'MSMunich')
+    (12, 'srf.0#147-158', 'SLATTIC')
+    (11, 'focusnews.3#1-11', 'DFKI-MLT')
+------
+  #segments in current task: 100
+    (13, 'srf.0#14-26', 'UZH-test')
+    (13, 'focusnews.4#1-13', 'translator-A')
+    (13, 'focusnews.5#1-13', 'SLATTIC')
+    (11, 'focusnews.3#12-22', 'njupt-mtt')
+    (12, 'srf.0#111-122', 'dfki')
+    (13, 'srf.0#14-26', 'MSMunich')
+    (13, 'focusnews.5#14-26', 'njupt-mtt')
+    (12, 'focusnews.5#39-50', 'UPC')
+------
+  #segments in current task: 95
+    (13, 'focusnews.4#1-13', 'UZH-test')
+    (11, 'focusnews.1#34-44', 'MSMunich')
+    (13, 'focusnews.4#1-13', 'MSMunich')
+    (11, 'focusnews.1#12-22', 'UPC')
+    (12, 'srf.0#231-242', 'UZH-test')
+    (12, 'focusnews.5#51-62', 'DFKI-MLT')
+    (12, 'focusnews.2#25-36', 'UZH-test')
+    (11, 'focusnews.1#23-33', 'DFKI-MLT')
+------
+  #segments in current task: 100
+    (11, 'focusnews.1#34-44', 'dfki')
+    (12, 'focusnews.5#51-62', 'njupt-mtt')
+    (13, 'focusnews.5#1-13', 'njupt-mtt')
+    (13, 'focusnews.5#14-26', 'dfki')
+    (13, 'srf.0#14-26', 'SLATTIC')
+    (13, 'focusnews.5#14-26', 'UPC')
+    (12, 'srf.0#135-146', 'UZH-test')
+    (13, 'srf.0#1-13', 'translator-A')
+------
+  #segments in current task: 94
+    (12, 'srf.0#99-110', 'UPC')
+    (11, 'focusnews.1#34-44', 'UPC')
+    (12, 'srf.0#207-218', 'UPC')
+    (11, 'focusnews.1#12-22', 'MSMunich')
+    (11, 'focusnews.1#1-11', 'UPC')
+    (11, 'focusnews.1#12-22', 'UZH-test')
+    (13, 'srf.0#14-26', 'dfki')
+    (13, 'focusnews.5#14-26', 'MSMunich')
+------
+  #segments in current task: 95
+    (12, 'srf.0#39-50', 'UPC')
+    (11, 'focusnews.1#12-22', 'translator-A')
+    (11, 'focusnews.1#34-44', 'translator-A')
+    (13, 'focusnews.5#1-13', 'UPC')
+    (11, 'focusnews.3#1-11', 'UZH-test')
+    (13, 'focusnews.5#1-13', 'translator-A')
+    (11, 'focusnews.3#23-33', 'njupt-mtt')
+    (13, 'focusnews.5#14-26', 'DFKI-MLT')
+------
+  #segments in current task: 94
+    (11, 'focusnews.1#23-33', 'dfki')
+    (12, 'srf.0#207-218', 'SLATTIC')
+    (12, 'focusnews.2#37-48', 'SLATTIC')
+    (12, 'srf.0#159-170', 'UZH-test')
+    (12, 'srf.0#219-230', 'translator-A')
+    (11, 'focusnews.1#34-44', 'SLATTIC')
+    (12, 'focusnews.4#26-37', 'MSMunich')
+    (12, 'focusnews.4#14-25', 'DFKI-MLT')
+------
+  #segments in current task: 92
+    (12, 'focusnews.2#37-48', 'UZH-test')
+    (11, 'focusnews.3#23-33', 'MSMunich')
+    (11, 'focusnews.3#12-22', 'translator-A')
+    (12, 'srf.0#87-98', 'translator-A')
+    (11, 'focusnews.3#23-33', 'DFKI-MLT')
+    (12, 'focusnews.2#1-12', 'SLATTIC')
+    (11, 'focusnews.3#23-33', 'dfki')
+    (12, 'focusnews.2#25-36', 'translator-A')
+------
+  #segments in current task: 92
+    (12, 'srf.0#147-158', 'UZH-test')
+    (11, 'focusnews.1#1-11', 'dfki')
+    (11, 'focusnews.3#23-33', 'translator-A')
+    (12, 'focusnews.4#14-25', 'UPC')
+    (12, 'focusnews.5#27-38', 'UPC')
+    (12, 'focusnews.2#13-24', 'UPC')
+    (11, 'focusnews.3#1-11', 'UPC')
+    (11, 'focusnews.3#12-22', 'dfki')
+------
+  #segments in current task: 92
+    (11, 'focusnews.1#34-44', 'DFKI-MLT')
+    (11, 'focusnews.3#12-22', 'UZH-test')
+    (11, 'focusnews.1#1-11', 'MSMunich')
+    (12, 'srf.0#195-206', 'UPC')
+    (12, 'focusnews.2#13-24', 'SLATTIC')
+    (12, 'srf.0#27-38', 'DFKI-MLT')
+    (11, 'focusnews.1#12-22', 'dfki')
+    (12, 'focusnews.2#13-24', 'translator-A')
+------
+  #segments in current task: 96
+    (12, 'srf.0#135-146', 'dfki')
+    (12, 'srf.0#159-170', 'DFKI-MLT')
+    (12, 'srf.0#111-122', 'DFKI-MLT')
+    (12, 'srf.0#231-242', 'MSMunich')
+    (12, 'srf.0#147-158', 'translator-A')
+    (12, 'srf.0#183-194', 'translator-A')
+    (12, 'srf.0#27-38', 'njupt-mtt')
+    (12, 'srf.0#87-98', 'UPC')
+------
+  #segments in current task: 96
+    (12, 'srf.0#123-134', 'DFKI-MLT')
+    (12, 'srf.0#231-242', 'njupt-mtt')
+    (12, 'srf.0#75-86', 'UPC')
+    (12, 'srf.0#183-194', 'dfki')
+    (12, 'focusnews.5#39-50', 'SLATTIC')
+    (12, 'focusnews.5#39-50', 'UZH-test')
+    (12, 'focusnews.5#27-38', 'translator-A')
+    (12, 'srf.0#87-98', 'SLATTIC')
+------
+  #segments in current task: 96
+    (12, 'srf.0#51-62', 'DFKI-MLT')
+    (12, 'srf.0#183-194', 'njupt-mtt')
+    (12, 'srf.0#27-38', 'UPC')
+    (12, 'focusnews.2#25-36', 'UPC')
+    (12, 'srf.0#51-62', 'translator-A')
+    (12, 'srf.0#39-50', 'DFKI-MLT')
+    (12, 'focusnews.4#14-25', 'MSMunich')
+    (12, 'srf.0#159-170', 'SLATTIC')
+------
+  #segments in current task: 96
+    (12, 'srf.0#99-110', 'DFKI-MLT')
+    (12, 'srf.0#87-98', 'njupt-mtt')
+    (12, 'srf.0#99-110', 'dfki')
+    (12, 'focusnews.2#1-12', 'UZH-test')
+    (12, 'srf.0#123-134', 'UPC')
+    (12, 'srf.0#195-206', 'DFKI-MLT')
+    (12, 'focusnews.2#13-24', 'MSMunich')
+    (12, 'srf.0#219-230', 'DFKI-MLT')
+------
+  #segments in current task: 96
+    (12, 'focusnews.4#14-25', 'SLATTIC')
+    (12, 'srf.0#99-110', 'SLATTIC')
+    (12, 'srf.0#75-86', 'dfki')
+    (12, 'srf.0#87-98', 'dfki')
+    (12, 'focusnews.5#39-50', 'njupt-mtt')
+    (12, 'srf.0#147-158', 'DFKI-MLT')
+    (12, 'srf.0#39-50', 'MSMunich')
+    (12, 'srf.0#39-50', 'dfki')
+------
+  #segments in current task: 96
+    (12, 'focusnews.2#37-48', 'dfki')
+    (12, 'srf.0#171-182', 'njupt-mtt')
+    (12, 'srf.0#135-146', 'MSMunich')
+    (12, 'srf.0#99-110', 'njupt-mtt')
+    (12, 'srf.0#135-146', 'njupt-mtt')
+    (12, 'srf.0#159-170', 'translator-A')
+    (12, 'srf.0#195-206', 'translator-A')
+    (12, 'focusnews.4#38-49', 'UPC')
+------
+  #segments in current task: 96
+    (12, 'focusnews.5#39-50', 'DFKI-MLT')
+    (12, 'focusnews.5#51-62', 'SLATTIC')
+    (12, 'focusnews.2#37-48', 'DFKI-MLT')
+    (12, 'focusnews.4#38-49', 'translator-A')
+    (12, 'srf.0#231-242', 'translator-A')
+    (12, 'srf.0#123-134', 'njupt-mtt')
+    (12, 'srf.0#75-86', 'DFKI-MLT')
+    (12, 'focusnews.4#14-25', 'dfki')
+------
+  #segments in current task: 96
+    (12, 'focusnews.5#27-38', 'njupt-mtt')
+    (12, 'srf.0#171-182', 'dfki')
+    (12, 'srf.0#51-62', 'dfki')
+    (12, 'srf.0#63-74', 'translator-A')
+    (12, 'srf.0#123-134', 'dfki')
+    (12, 'focusnews.5#27-38', 'MSMunich')
+    (12, 'srf.0#111-122', 'UZH-test')
+    (12, 'srf.0#123-134', 'translator-A')
+------
+  #segments in current task: 96
+    (12, 'focusnews.2#13-24', 'UZH-test')
+    (12, 'srf.0#75-86', 'UZH-test')
+    (12, 'srf.0#27-38', 'MSMunich')
+    (12, 'focusnews.4#26-37', 'translator-A')
+    (12, 'focusnews.2#25-36', 'MSMunich')
+    (12, 'srf.0#63-74', 'DFKI-MLT')
+    (12, 'srf.0#63-74', 'SLATTIC')
+    (12, 'srf.0#75-86', 'MSMunich')
+------
+  #segments in current task: 96
+    (12, 'srf.0#207-218', 'MSMunich')
+    (12, 'srf.0#207-218', 'njupt-mtt')
+    (12, 'srf.0#135-146', 'translator-A')
+    (12, 'focusnews.5#51-62', 'dfki')
+    (12, 'focusnews.5#27-38', 'dfki')
+    (12, 'srf.0#75-86', 'translator-A')
+    (12, 'focusnews.4#26-37', 'DFKI-MLT')
+    (12, 'srf.0#135-146', 'SLATTIC')
+------
+  #segments in current task: 96
+    (12, 'srf.0#219-230', 'njupt-mtt')
+    (12, 'srf.0#87-98', 'UZH-test')
+    (12, 'srf.0#171-182', 'SLATTIC')
+    (12, 'focusnews.2#25-36', 'njupt-mtt')
+    (12, 'focusnews.4#26-37', 'UPC')
+    (12, 'srf.0#51-62', 'UZH-test')
+    (12, 'srf.0#159-170', 'dfki')
+    (12, 'srf.0#111-122', 'njupt-mtt')
+------
+  #segments in current task: 96
+    (12, 'srf.0#231-242', 'dfki')
+    (12, 'srf.0#63-74', 'MSMunich')
+    (12, 'srf.0#171-182', 'DFKI-MLT')
+    (12, 'srf.0#195-206', 'SLATTIC')
+    (12, 'srf.0#183-194', 'SLATTIC')
+    (12, 'focusnews.4#38-49', 'UZH-test')
+    (12, 'focusnews.2#25-36', 'dfki')
+    (12, 'srf.0#87-98', 'DFKI-MLT')
+------
+  #segments in current task: 96
+    (12, 'srf.0#219-230', 'UZH-test')
+    (12, 'srf.0#195-206', 'dfki')
+    (12, 'srf.0#39-50', 'UZH-test')
+    (12, 'srf.0#171-182', 'translator-A')
+    (12, 'srf.0#39-50', 'SLATTIC')
+    (12, 'srf.0#183-194', 'MSMunich')
+    (12, 'srf.0#183-194', 'DFKI-MLT')
+    (12, 'srf.0#135-146', 'DFKI-MLT')
+------
+  #segments in current task: 96
+    (12, 'srf.0#171-182', 'UZH-test')
+    (12, 'srf.0#51-62', 'MSMunich')
+    (12, 'srf.0#219-230', 'UPC')
+    (12, 'focusnews.4#38-49', 'dfki')
+    (12, 'srf.0#207-218', 'dfki')
+    (12, 'srf.0#171-182', 'MSMunich')
+    (12, 'srf.0#111-122', 'UPC')
+    (12, 'srf.0#147-158', 'UPC')
+------
+  #segments in current task: 96
+    (12, 'srf.0#231-242', 'SLATTIC')
+    (12, 'focusnews.2#13-24', 'dfki')
+    (12, 'srf.0#159-170', 'MSMunich')
+    (12, 'srf.0#51-62', 'njupt-mtt')
+    (12, 'srf.0#219-230', 'MSMunich')
+    (12, 'srf.0#63-74', 'njupt-mtt')
+    (12, 'focusnews.2#1-12', 'njupt-mtt')
+    (12, 'srf.0#231-242', 'DFKI-MLT')
+------
+  #segments in current task: 96
+    (12, 'srf.0#159-170', 'UPC')
+    (12, 'focusnews.4#38-49', 'njupt-mtt')
+    (12, 'focusnews.2#37-48', 'UPC')
+    (12, 'srf.0#111-122', 'MSMunich')
+    (12, 'srf.0#207-218', 'DFKI-MLT')
+    (12, 'focusnews.2#1-12', 'MSMunich')
+    (12, 'focusnews.5#27-38', 'SLATTIC')
+    (12, 'srf.0#207-218', 'UZH-test')
+------
+  #segments in current task: 96
+    (12, 'srf.0#171-182', 'UPC')
+    (12, 'srf.0#27-38', 'UZH-test')
+    (12, 'srf.0#51-62', 'SLATTIC')
+    (12, 'focusnews.4#38-49', 'SLATTIC')
+    (12, 'srf.0#183-194', 'UPC')
+    (12, 'srf.0#195-206', 'MSMunich')
+    (12, 'srf.0#51-62', 'UPC')
+    (12, 'focusnews.5#39-50', 'translator-A')
+------
+  #segments in current task: 96
+    (12, 'srf.0#147-158', 'njupt-mtt')
+    (12, 'focusnews.5#39-50', 'dfki')
+    (12, 'focusnews.4#14-25', 'UZH-test')
+    (12, 'srf.0#39-50', 'translator-A')
+    (12, 'srf.0#63-74', 'UZH-test')
+    (12, 'srf.0#39-50', 'njupt-mtt')
+    (12, 'focusnews.2#37-48', 'njupt-mtt')
+    (12, 'focusnews.2#1-12', 'translator-A')
+------
+  #segments in current task: 96
+    (12, 'focusnews.5#51-62', 'translator-A')
+    (12, 'srf.0#147-158', 'dfki')
+    (12, 'srf.0#123-134', 'UZH-test')
+    (12, 'focusnews.4#14-25', 'njupt-mtt')
+    (12, 'srf.0#87-98', 'MSMunich')
+    (12, 'focusnews.5#51-62', 'UZH-test')
+    (12, 'focusnews.5#39-50', 'MSMunich')
+    (12, 'focusnews.4#26-37', 'SLATTIC')
+------
+  #segments in current task: 96
+    (12, 'focusnews.4#38-49', 'MSMunich')
+    (12, 'srf.0#75-86', 'njupt-mtt')
+    (12, 'focusnews.5#51-62', 'UPC')
+    (12, 'focusnews.2#37-48', 'translator-A')
+    (12, 'srf.0#207-218', 'translator-A')
+    (12, 'focusnews.4#38-49', 'DFKI-MLT')
+    (12, 'focusnews.2#1-12', 'DFKI-MLT')
+    (12, 'focusnews.4#26-37', 'njupt-mtt')
+------
+Creating last batch with padded documents
+  #segments in current task: 96
+    (12, 'srf.0#219-230', 'dfki')
+    (12, 'focusnews.2#25-36', 'SLATTIC')
+    (12, 'srf.0#111-122', 'SLATTIC')
+    (12, 'srf.0#147-158', 'MSMunich')
+    (12, 'focusnews.2#37-48', 'MSMunich')
+    (12, 'srf.0#195-206', 'njupt-mtt')
+    (12, 'focusnews.5#51-62', 'MSMunich')
+    (12, 'srf.0#75-86', 'SLATTIC')
+------
+0 translator-A
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+1 UPC
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+2 MSMunich
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+3 SLATTIC
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+4 UZH-test
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+5 DFKI-MLT
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+6 njupt-mtt
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+7 dfki
+   0 focusnews.1#1-11
+   1 focusnews.1#12-22
+   2 focusnews.1#23-33
+   3 focusnews.1#34-44
+   4 focusnews.2#1-12
+   5 focusnews.2#13-24
+   6 focusnews.2#25-36
+   7 focusnews.2#37-48
+   8 focusnews.3#1-11
+   9 focusnews.3#12-22
+   10 focusnews.3#23-33
+   11 focusnews.3#34-43
+   12 focusnews.4#1-13
+   13 focusnews.4#14-25
+   14 focusnews.4#26-37
+   15 focusnews.4#38-49
+   16 focusnews.5#1-13
+   17 focusnews.5#14-26
+   18 focusnews.5#27-38
+   19 focusnews.5#39-50
+   20 focusnews.5#51-62
+   21 srf.0#1-13
+   22 srf.0#111-122
+   23 srf.0#123-134
+   24 srf.0#135-146
+   25 srf.0#14-26
+   26 srf.0#147-158
+   27 srf.0#159-170
+   28 srf.0#171-182
+   29 srf.0#183-194
+   30 srf.0#195-206
+   31 srf.0#207-218
+   32 srf.0#219-230
+   33 srf.0#231-242
+   34 srf.0#27-38
+   35 srf.0#39-50
+   36 srf.0#51-62
+   37 srf.0#63-74
+   38 srf.0#75-86
+   39 srf.0#87-98
+   40 srf.0#99-110
+Total number of tasks: 41
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#51-62', 'DFKI-MLT', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#51-62', 'DFKI-MLT')
+   (12, 'srf.0#183-194', 'njupt-mtt')
+   (12, 'srf.0#27-38', 'UPC')
+   (12, 'focusnews.2#25-36', 'UPC')
+   (12, 'srf.0#51-62', 'translator-A')
+   (12, 'srf.0#39-50', 'DFKI-MLT')
+   (12, 'focusnews.4#14-25', 'MSMunich')
+   (12, 'srf.0#159-170', 'SLATTIC')
+   (4, 'srf.0#51-62', 'DFKI-MLT', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.5#39-50', 'DFKI-MLT', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.5#39-50', 'DFKI-MLT')
+   (12, 'focusnews.5#51-62', 'SLATTIC')
+   (12, 'focusnews.2#37-48', 'DFKI-MLT')
+   (12, 'focusnews.4#38-49', 'translator-A')
+   (12, 'srf.0#231-242', 'translator-A')
+   (12, 'srf.0#123-134', 'njupt-mtt')
+   (12, 'srf.0#75-86', 'DFKI-MLT')
+   (12, 'focusnews.4#14-25', 'dfki')
+   (4, 'focusnews.5#39-50', 'DFKI-MLT', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#171-182', 'UPC', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#171-182', 'UPC')
+   (12, 'srf.0#27-38', 'UZH-test')
+   (12, 'srf.0#51-62', 'SLATTIC')
+   (12, 'focusnews.4#38-49', 'SLATTIC')
+   (12, 'srf.0#183-194', 'UPC')
+   (12, 'srf.0#195-206', 'MSMunich')
+   (12, 'srf.0#51-62', 'UPC')
+   (12, 'focusnews.5#39-50', 'translator-A')
+   (4, 'srf.0#171-182', 'UPC', True)
+task_len: 94
+pad_size: 6
+pad_pos: 0
+(12, 'srf.0#99-110', 'UPC', True)
+pad_size: -6
+pad_pos: 1
+12 --> 6
+6
+Padded tasks:
+   (12, 'srf.0#99-110', 'UPC')
+   (11, 'focusnews.1#34-44', 'UPC')
+   (12, 'srf.0#207-218', 'UPC')
+   (11, 'focusnews.1#12-22', 'MSMunich')
+   (11, 'focusnews.1#1-11', 'UPC')
+   (11, 'focusnews.1#12-22', 'UZH-test')
+   (13, 'srf.0#14-26', 'dfki')
+   (13, 'focusnews.5#14-26', 'MSMunich')
+   (6, 'srf.0#99-110', 'UPC', True)
+task_len: 100
+WARNING: no control items in task no. 4
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#219-230', 'njupt-mtt', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#219-230', 'njupt-mtt')
+   (12, 'srf.0#87-98', 'UZH-test')
+   (12, 'srf.0#171-182', 'SLATTIC')
+   (12, 'focusnews.2#25-36', 'njupt-mtt')
+   (12, 'focusnews.4#26-37', 'UPC')
+   (12, 'srf.0#51-62', 'UZH-test')
+   (12, 'srf.0#159-170', 'dfki')
+   (12, 'srf.0#111-122', 'njupt-mtt')
+   (4, 'srf.0#219-230', 'njupt-mtt', True)
+task_len: 94
+pad_size: 6
+pad_pos: 0
+(11, 'focusnews.1#23-33', 'dfki', True)
+pad_size: -5
+pad_pos: 1
+11 --> 6
+6
+Padded tasks:
+   (11, 'focusnews.1#23-33', 'dfki')
+   (12, 'srf.0#207-218', 'SLATTIC')
+   (12, 'focusnews.2#37-48', 'SLATTIC')
+   (12, 'srf.0#159-170', 'UZH-test')
+   (12, 'srf.0#219-230', 'translator-A')
+   (11, 'focusnews.1#34-44', 'SLATTIC')
+   (12, 'focusnews.4#26-37', 'MSMunich')
+   (12, 'focusnews.4#14-25', 'DFKI-MLT')
+   (6, 'focusnews.1#23-33', 'dfki', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#123-134', 'DFKI-MLT', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#123-134', 'DFKI-MLT')
+   (12, 'srf.0#231-242', 'njupt-mtt')
+   (12, 'srf.0#75-86', 'UPC')
+   (12, 'srf.0#183-194', 'dfki')
+   (12, 'focusnews.5#39-50', 'SLATTIC')
+   (12, 'focusnews.5#39-50', 'UZH-test')
+   (12, 'focusnews.5#27-38', 'translator-A')
+   (12, 'srf.0#87-98', 'SLATTIC')
+   (4, 'srf.0#123-134', 'DFKI-MLT', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#135-146', 'dfki', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#135-146', 'dfki')
+   (12, 'srf.0#159-170', 'DFKI-MLT')
+   (12, 'srf.0#111-122', 'DFKI-MLT')
+   (12, 'srf.0#231-242', 'MSMunich')
+   (12, 'srf.0#147-158', 'translator-A')
+   (12, 'srf.0#183-194', 'translator-A')
+   (12, 'srf.0#27-38', 'njupt-mtt')
+   (12, 'srf.0#87-98', 'UPC')
+   (4, 'srf.0#135-146', 'dfki', True)
+task_len: 95
+pad_size: 5
+pad_pos: 0
+(12, 'srf.0#39-50', 'UPC', True)
+pad_size: -7
+pad_pos: 1
+12 --> 5
+5
+Padded tasks:
+   (12, 'srf.0#39-50', 'UPC')
+   (11, 'focusnews.1#12-22', 'translator-A')
+   (11, 'focusnews.1#34-44', 'translator-A')
+   (13, 'focusnews.5#1-13', 'UPC')
+   (11, 'focusnews.3#1-11', 'UZH-test')
+   (13, 'focusnews.5#1-13', 'translator-A')
+   (11, 'focusnews.3#23-33', 'njupt-mtt')
+   (13, 'focusnews.5#14-26', 'DFKI-MLT')
+   (5, 'srf.0#39-50', 'UPC', True)
+task_len: 92
+pad_size: 8
+pad_pos: 0
+(12, 'srf.0#147-158', 'UZH-test', True)
+pad_size: -4
+pad_pos: 1
+12 --> 8
+8
+Padded tasks:
+   (12, 'srf.0#147-158', 'UZH-test')
+   (11, 'focusnews.1#1-11', 'dfki')
+   (11, 'focusnews.3#23-33', 'translator-A')
+   (12, 'focusnews.4#14-25', 'UPC')
+   (12, 'focusnews.5#27-38', 'UPC')
+   (12, 'focusnews.2#13-24', 'UPC')
+   (11, 'focusnews.3#1-11', 'UPC')
+   (11, 'focusnews.3#12-22', 'dfki')
+   (8, 'srf.0#147-158', 'UZH-test', True)
+task_len: 92
+pad_size: 8
+pad_pos: 0
+(11, 'focusnews.1#34-44', 'DFKI-MLT', True)
+pad_size: -3
+pad_pos: 1
+11 --> 8
+8
+Padded tasks:
+   (11, 'focusnews.1#34-44', 'DFKI-MLT')
+   (11, 'focusnews.3#12-22', 'UZH-test')
+   (11, 'focusnews.1#1-11', 'MSMunich')
+   (12, 'srf.0#195-206', 'UPC')
+   (12, 'focusnews.2#13-24', 'SLATTIC')
+   (12, 'srf.0#27-38', 'DFKI-MLT')
+   (11, 'focusnews.1#12-22', 'dfki')
+   (12, 'focusnews.2#13-24', 'translator-A')
+   (8, 'focusnews.1#34-44', 'DFKI-MLT', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#207-218', 'MSMunich', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#207-218', 'MSMunich')
+   (12, 'srf.0#207-218', 'njupt-mtt')
+   (12, 'srf.0#135-146', 'translator-A')
+   (12, 'focusnews.5#51-62', 'dfki')
+   (12, 'focusnews.5#27-38', 'dfki')
+   (12, 'srf.0#75-86', 'translator-A')
+   (12, 'focusnews.4#26-37', 'DFKI-MLT')
+   (12, 'srf.0#135-146', 'SLATTIC')
+   (4, 'srf.0#207-218', 'MSMunich', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(13, 'srf.0#14-26', 'DFKI-MLT', True)
+pad_size: -9
+pad_pos: 1
+13 --> 4
+4
+Padded tasks:
+   (13, 'srf.0#14-26', 'DFKI-MLT')
+   (13, 'srf.0#14-26', 'translator-A')
+   (12, 'srf.0#63-74', 'UPC')
+   (12, 'focusnews.4#26-37', 'dfki')
+   (13, 'srf.0#14-26', 'njupt-mtt')
+   (10, 'focusnews.3#34-43', 'njupt-mtt')
+   (12, 'srf.0#99-110', 'MSMunich')
+   (11, 'focusnews.3#12-22', 'DFKI-MLT')
+   (4, 'srf.0#14-26', 'DFKI-MLT', True)
+task_len: 95
+pad_size: 5
+pad_pos: 0
+(13, 'focusnews.4#1-13', 'UZH-test', True)
+pad_size: -8
+pad_pos: 1
+13 --> 5
+5
+Padded tasks:
+   (13, 'focusnews.4#1-13', 'UZH-test')
+   (11, 'focusnews.1#34-44', 'MSMunich')
+   (13, 'focusnews.4#1-13', 'MSMunich')
+   (11, 'focusnews.1#12-22', 'UPC')
+   (12, 'srf.0#231-242', 'UZH-test')
+   (12, 'focusnews.5#51-62', 'DFKI-MLT')
+   (12, 'focusnews.2#25-36', 'UZH-test')
+   (11, 'focusnews.1#23-33', 'DFKI-MLT')
+   (5, 'focusnews.4#1-13', 'UZH-test', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.2#37-48', 'dfki', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.2#37-48', 'dfki')
+   (12, 'srf.0#171-182', 'njupt-mtt')
+   (12, 'srf.0#135-146', 'MSMunich')
+   (12, 'srf.0#99-110', 'njupt-mtt')
+   (12, 'srf.0#135-146', 'njupt-mtt')
+   (12, 'srf.0#159-170', 'translator-A')
+   (12, 'srf.0#195-206', 'translator-A')
+   (12, 'focusnews.4#38-49', 'UPC')
+   (4, 'focusnews.2#37-48', 'dfki', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#171-182', 'UZH-test', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#171-182', 'UZH-test')
+   (12, 'srf.0#51-62', 'MSMunich')
+   (12, 'srf.0#219-230', 'UPC')
+   (12, 'focusnews.4#38-49', 'dfki')
+   (12, 'srf.0#207-218', 'dfki')
+   (12, 'srf.0#171-182', 'MSMunich')
+   (12, 'srf.0#111-122', 'UPC')
+   (12, 'srf.0#147-158', 'UPC')
+   (4, 'srf.0#171-182', 'UZH-test', True)
+task_len: 97
+pad_size: 3
+pad_pos: 0
+(13, 'srf.0#1-13', 'MSMunich', True)
+pad_size: -10
+pad_pos: 1
+13 --> 3
+3
+Padded tasks:
+   (13, 'srf.0#1-13', 'MSMunich')
+   (12, 'srf.0#63-74', 'dfki')
+   (11, 'focusnews.3#1-11', 'SLATTIC')
+   (11, 'focusnews.1#1-11', 'SLATTIC')
+   (13, 'focusnews.5#1-13', 'UZH-test')
+   (13, 'focusnews.5#1-13', 'dfki')
+   (12, 'focusnews.4#14-25', 'translator-A')
+   (12, 'focusnews.2#13-24', 'DFKI-MLT')
+   (3, 'srf.0#1-13', 'MSMunich', True)
+task_len: 93
+pad_size: 7
+pad_pos: 0
+(11, 'focusnews.3#23-33', 'SLATTIC', True)
+pad_size: -4
+pad_pos: 1
+11 --> 7
+7
+Padded tasks:
+   (11, 'focusnews.3#23-33', 'SLATTIC')
+   (11, 'focusnews.3#12-22', 'SLATTIC')
+   (11, 'focusnews.1#1-11', 'UZH-test')
+   (11, 'focusnews.3#23-33', 'UZH-test')
+   (13, 'focusnews.4#1-13', 'njupt-mtt')
+   (12, 'focusnews.2#1-12', 'dfki')
+   (12, 'srf.0#231-242', 'UPC')
+   (12, 'srf.0#27-38', 'dfki')
+   (7, 'focusnews.3#23-33', 'SLATTIC', True)
+task_len: 93
+pad_size: 7
+pad_pos: 0
+(12, 'srf.0#27-38', 'SLATTIC', True)
+pad_size: -5
+pad_pos: 1
+12 --> 7
+7
+Padded tasks:
+   (12, 'srf.0#27-38', 'SLATTIC')
+   (13, 'focusnews.4#1-13', 'SLATTIC')
+   (10, 'focusnews.3#34-43', 'UZH-test')
+   (10, 'focusnews.3#34-43', 'DFKI-MLT')
+   (12, 'srf.0#219-230', 'SLATTIC')
+   (13, 'focusnews.4#1-13', 'dfki')
+   (13, 'focusnews.4#1-13', 'DFKI-MLT')
+   (10, 'focusnews.3#34-43', 'SLATTIC')
+   (7, 'srf.0#27-38', 'SLATTIC', True)
+task_len: 93
+pad_size: 7
+pad_pos: 0
+(10, 'focusnews.3#34-43', 'MSMunich', True)
+pad_size: -3
+pad_pos: 1
+10 --> 7
+7
+Padded tasks:
+   (10, 'focusnews.3#34-43', 'MSMunich')
+   (11, 'focusnews.1#1-11', 'DFKI-MLT')
+   (12, 'srf.0#99-110', 'UZH-test')
+   (11, 'focusnews.1#23-33', 'MSMunich')
+   (13, 'focusnews.5#1-13', 'DFKI-MLT')
+   (12, 'focusnews.5#27-38', 'UZH-test')
+   (12, 'focusnews.2#1-12', 'UPC')
+   (12, 'srf.0#123-134', 'SLATTIC')
+   (7, 'focusnews.3#34-43', 'MSMunich', True)
+task_len: 97
+pad_size: 3
+pad_pos: 0
+(13, 'srf.0#1-13', 'dfki', True)
+pad_size: -10
+pad_pos: 1
+13 --> 3
+3
+Padded tasks:
+   (13, 'srf.0#1-13', 'dfki')
+   (12, 'srf.0#159-170', 'njupt-mtt')
+   (13, 'focusnews.4#1-13', 'UPC')
+   (13, 'srf.0#1-13', 'njupt-mtt')
+   (11, 'focusnews.1#34-44', 'njupt-mtt')
+   (11, 'focusnews.1#23-33', 'njupt-mtt')
+   (12, 'srf.0#135-146', 'UPC')
+   (12, 'srf.0#99-110', 'translator-A')
+   (3, 'srf.0#1-13', 'dfki', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.4#14-25', 'SLATTIC', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.4#14-25', 'SLATTIC')
+   (12, 'srf.0#99-110', 'SLATTIC')
+   (12, 'srf.0#75-86', 'dfki')
+   (12, 'srf.0#87-98', 'dfki')
+   (12, 'focusnews.5#39-50', 'njupt-mtt')
+   (12, 'srf.0#147-158', 'DFKI-MLT')
+   (12, 'srf.0#39-50', 'MSMunich')
+   (12, 'srf.0#39-50', 'dfki')
+   (4, 'focusnews.4#14-25', 'SLATTIC', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.4#38-49', 'MSMunich', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.4#38-49', 'MSMunich')
+   (12, 'srf.0#75-86', 'njupt-mtt')
+   (12, 'focusnews.5#51-62', 'UPC')
+   (12, 'focusnews.2#37-48', 'translator-A')
+   (12, 'srf.0#207-218', 'translator-A')
+   (12, 'focusnews.4#38-49', 'DFKI-MLT')
+   (12, 'focusnews.2#1-12', 'DFKI-MLT')
+   (12, 'focusnews.4#26-37', 'njupt-mtt')
+   (4, 'focusnews.4#38-49', 'MSMunich', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#219-230', 'UZH-test', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#219-230', 'UZH-test')
+   (12, 'srf.0#195-206', 'dfki')
+   (12, 'srf.0#39-50', 'UZH-test')
+   (12, 'srf.0#171-182', 'translator-A')
+   (12, 'srf.0#39-50', 'SLATTIC')
+   (12, 'srf.0#183-194', 'MSMunich')
+   (12, 'srf.0#183-194', 'DFKI-MLT')
+   (12, 'srf.0#135-146', 'DFKI-MLT')
+   (4, 'srf.0#219-230', 'UZH-test', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#159-170', 'UPC', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#159-170', 'UPC')
+   (12, 'focusnews.4#38-49', 'njupt-mtt')
+   (12, 'focusnews.2#37-48', 'UPC')
+   (12, 'srf.0#111-122', 'MSMunich')
+   (12, 'srf.0#207-218', 'DFKI-MLT')
+   (12, 'focusnews.2#1-12', 'MSMunich')
+   (12, 'focusnews.5#27-38', 'SLATTIC')
+   (12, 'srf.0#207-218', 'UZH-test')
+   (4, 'srf.0#159-170', 'UPC', True)
+task_len: 92
+pad_size: 8
+pad_pos: 0
+(11, 'focusnews.1#1-11', 'translator-A', True)
+pad_size: -3
+pad_pos: 1
+11 --> 8
+8
+Padded tasks:
+   (11, 'focusnews.1#1-11', 'translator-A')
+   (10, 'focusnews.3#34-43', 'UPC')
+   (13, 'srf.0#1-13', 'UPC')
+   (12, 'srf.0#27-38', 'translator-A')
+   (13, 'focusnews.5#1-13', 'MSMunich')
+   (11, 'focusnews.1#12-22', 'SLATTIC')
+   (10, 'focusnews.3#34-43', 'translator-A')
+   (12, 'srf.0#195-206', 'UZH-test')
+   (8, 'focusnews.1#1-11', 'translator-A', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#231-242', 'dfki', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#231-242', 'dfki')
+   (12, 'srf.0#63-74', 'MSMunich')
+   (12, 'srf.0#171-182', 'DFKI-MLT')
+   (12, 'srf.0#195-206', 'SLATTIC')
+   (12, 'srf.0#183-194', 'SLATTIC')
+   (12, 'focusnews.4#38-49', 'UZH-test')
+   (12, 'focusnews.2#25-36', 'dfki')
+   (12, 'srf.0#87-98', 'DFKI-MLT')
+   (4, 'srf.0#231-242', 'dfki', True)
+task_len: 100
+WARNING: no control items in task no. 28
+task_len: 97
+pad_size: 3
+pad_pos: 0
+(13, 'srf.0#1-13', 'UZH-test', True)
+pad_size: -10
+pad_pos: 1
+13 --> 3
+3
+Padded tasks:
+   (13, 'srf.0#1-13', 'UZH-test')
+   (11, 'focusnews.1#23-33', 'UZH-test')
+   (13, 'focusnews.5#14-26', 'SLATTIC')
+   (13, 'srf.0#1-13', 'DFKI-MLT')
+   (11, 'focusnews.3#23-33', 'UPC')
+   (12, 'focusnews.2#13-24', 'njupt-mtt')
+   (13, 'focusnews.5#14-26', 'UZH-test')
+   (11, 'focusnews.3#12-22', 'MSMunich')
+   (3, 'srf.0#1-13', 'UZH-test', True)
+task_len: 92
+pad_size: 8
+pad_pos: 0
+(12, 'focusnews.2#37-48', 'UZH-test', True)
+pad_size: -4
+pad_pos: 1
+12 --> 8
+8
+Padded tasks:
+   (12, 'focusnews.2#37-48', 'UZH-test')
+   (11, 'focusnews.3#23-33', 'MSMunich')
+   (11, 'focusnews.3#12-22', 'translator-A')
+   (12, 'srf.0#87-98', 'translator-A')
+   (11, 'focusnews.3#23-33', 'DFKI-MLT')
+   (12, 'focusnews.2#1-12', 'SLATTIC')
+   (11, 'focusnews.3#23-33', 'dfki')
+   (12, 'focusnews.2#25-36', 'translator-A')
+   (8, 'focusnews.2#37-48', 'UZH-test', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.5#51-62', 'translator-A', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.5#51-62', 'translator-A')
+   (12, 'srf.0#147-158', 'dfki')
+   (12, 'srf.0#123-134', 'UZH-test')
+   (12, 'focusnews.4#14-25', 'njupt-mtt')
+   (12, 'srf.0#87-98', 'MSMunich')
+   (12, 'focusnews.5#51-62', 'UZH-test')
+   (12, 'focusnews.5#39-50', 'MSMunich')
+   (12, 'focusnews.4#26-37', 'SLATTIC')
+   (4, 'focusnews.5#51-62', 'translator-A', True)
+task_len: 91
+pad_size: 9
+pad_pos: 0
+(12, 'srf.0#183-194', 'UZH-test', True)
+pad_size: -3
+pad_pos: 1
+12 --> 9
+9
+Padded tasks:
+   (12, 'srf.0#183-194', 'UZH-test')
+   (12, 'focusnews.4#26-37', 'UZH-test')
+   (11, 'focusnews.1#34-44', 'UZH-test')
+   (11, 'focusnews.3#1-11', 'dfki')
+   (11, 'focusnews.1#1-11', 'njupt-mtt')
+   (11, 'focusnews.3#1-11', 'MSMunich')
+   (12, 'srf.0#147-158', 'SLATTIC')
+   (11, 'focusnews.3#1-11', 'DFKI-MLT')
+   (9, 'srf.0#183-194', 'UZH-test', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.2#13-24', 'UZH-test', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.2#13-24', 'UZH-test')
+   (12, 'srf.0#75-86', 'UZH-test')
+   (12, 'srf.0#27-38', 'MSMunich')
+   (12, 'focusnews.4#26-37', 'translator-A')
+   (12, 'focusnews.2#25-36', 'MSMunich')
+   (12, 'srf.0#63-74', 'DFKI-MLT')
+   (12, 'srf.0#63-74', 'SLATTIC')
+   (12, 'srf.0#75-86', 'MSMunich')
+   (4, 'focusnews.2#13-24', 'UZH-test', True)
+task_len: 91
+pad_size: 9
+pad_pos: 0
+(12, 'srf.0#123-134', 'MSMunich', True)
+pad_size: -3
+pad_pos: 1
+12 --> 9
+9
+Padded tasks:
+   (12, 'srf.0#123-134', 'MSMunich')
+   (12, 'srf.0#111-122', 'translator-A')
+   (12, 'focusnews.5#27-38', 'DFKI-MLT')
+   (11, 'focusnews.1#23-33', 'SLATTIC')
+   (11, 'focusnews.1#23-33', 'translator-A')
+   (11, 'focusnews.3#12-22', 'UPC')
+   (11, 'focusnews.3#1-11', 'translator-A')
+   (11, 'focusnews.1#23-33', 'UPC')
+   (9, 'srf.0#123-134', 'MSMunich', True)
+task_len: 94
+pad_size: 6
+pad_pos: 0
+(13, 'srf.0#1-13', 'SLATTIC', True)
+pad_size: -7
+pad_pos: 1
+13 --> 6
+6
+Padded tasks:
+   (13, 'srf.0#1-13', 'SLATTIC')
+   (11, 'focusnews.1#12-22', 'njupt-mtt')
+   (13, 'focusnews.5#14-26', 'translator-A')
+   (11, 'focusnews.1#12-22', 'DFKI-MLT')
+   (11, 'focusnews.3#1-11', 'njupt-mtt')
+   (13, 'srf.0#14-26', 'UPC')
+   (10, 'focusnews.3#34-43', 'dfki')
+   (12, 'focusnews.2#25-36', 'DFKI-MLT')
+   (6, 'srf.0#1-13', 'SLATTIC', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#99-110', 'DFKI-MLT', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#99-110', 'DFKI-MLT')
+   (12, 'srf.0#87-98', 'njupt-mtt')
+   (12, 'srf.0#99-110', 'dfki')
+   (12, 'focusnews.2#1-12', 'UZH-test')
+   (12, 'srf.0#123-134', 'UPC')
+   (12, 'srf.0#195-206', 'DFKI-MLT')
+   (12, 'focusnews.2#13-24', 'MSMunich')
+   (12, 'srf.0#219-230', 'DFKI-MLT')
+   (4, 'srf.0#99-110', 'DFKI-MLT', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#147-158', 'njupt-mtt', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#147-158', 'njupt-mtt')
+   (12, 'focusnews.5#39-50', 'dfki')
+   (12, 'focusnews.4#14-25', 'UZH-test')
+   (12, 'srf.0#39-50', 'translator-A')
+   (12, 'srf.0#63-74', 'UZH-test')
+   (12, 'srf.0#39-50', 'njupt-mtt')
+   (12, 'focusnews.2#37-48', 'njupt-mtt')
+   (12, 'focusnews.2#1-12', 'translator-A')
+   (4, 'srf.0#147-158', 'njupt-mtt', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#219-230', 'dfki', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#219-230', 'dfki')
+   (12, 'focusnews.2#25-36', 'SLATTIC')
+   (12, 'srf.0#111-122', 'SLATTIC')
+   (12, 'srf.0#147-158', 'MSMunich')
+   (12, 'focusnews.2#37-48', 'MSMunich')
+   (12, 'srf.0#195-206', 'njupt-mtt')
+   (12, 'focusnews.5#51-62', 'MSMunich')
+   (12, 'srf.0#75-86', 'SLATTIC')
+   (4, 'srf.0#219-230', 'dfki', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'srf.0#231-242', 'SLATTIC', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'srf.0#231-242', 'SLATTIC')
+   (12, 'focusnews.2#13-24', 'dfki')
+   (12, 'srf.0#159-170', 'MSMunich')
+   (12, 'srf.0#51-62', 'njupt-mtt')
+   (12, 'srf.0#219-230', 'MSMunich')
+   (12, 'srf.0#63-74', 'njupt-mtt')
+   (12, 'focusnews.2#1-12', 'njupt-mtt')
+   (12, 'srf.0#231-242', 'DFKI-MLT')
+   (4, 'srf.0#231-242', 'SLATTIC', True)
+task_len: 96
+pad_size: 4
+pad_pos: 0
+(12, 'focusnews.5#27-38', 'njupt-mtt', True)
+pad_size: -8
+pad_pos: 1
+12 --> 4
+4
+Padded tasks:
+   (12, 'focusnews.5#27-38', 'njupt-mtt')
+   (12, 'srf.0#171-182', 'dfki')
+   (12, 'srf.0#51-62', 'dfki')
+   (12, 'srf.0#63-74', 'translator-A')
+   (12, 'srf.0#123-134', 'dfki')
+   (12, 'focusnews.5#27-38', 'MSMunich')
+   (12, 'srf.0#111-122', 'UZH-test')
+   (12, 'srf.0#123-134', 'translator-A')
+   (4, 'focusnews.5#27-38', 'njupt-mtt', True)
+>>> task_len: 100
+>>>  1 12 srf.0#51-62 DFKI-MLT False
+>>>  1 12 srf.0#183-194 njupt-mtt False
+>>>  1 12 srf.0#27-38 UPC False
+>>>  1 12 focusnews.2#25-36 UPC False
+>>>  1 12 srf.0#51-62 translator-A False
+>>>  1 12 srf.0#39-50 DFKI-MLT False
+>>>  1 12 focusnews.4#14-25 MSMunich False
+>>>  1 12 srf.0#159-170 SLATTIC False
+>>>  1 4 srf.0#51-62 DFKI-MLT True
+>>> task_len: 100
+>>>  2 12 focusnews.5#39-50 DFKI-MLT False
+>>>  2 12 focusnews.5#51-62 SLATTIC False
+>>>  2 12 focusnews.2#37-48 DFKI-MLT False
+>>>  2 12 focusnews.4#38-49 translator-A False
+>>>  2 12 srf.0#231-242 translator-A False
+>>>  2 12 srf.0#123-134 njupt-mtt False
+>>>  2 12 srf.0#75-86 DFKI-MLT False
+>>>  2 12 focusnews.4#14-25 dfki False
+>>>  2 4 focusnews.5#39-50 DFKI-MLT True
+>>> task_len: 100
+>>>  3 12 srf.0#171-182 UPC False
+>>>  3 12 srf.0#27-38 UZH-test False
+>>>  3 12 srf.0#51-62 SLATTIC False
+>>>  3 12 focusnews.4#38-49 SLATTIC False
+>>>  3 12 srf.0#183-194 UPC False
+>>>  3 12 srf.0#195-206 MSMunich False
+>>>  3 12 srf.0#51-62 UPC False
+>>>  3 12 focusnews.5#39-50 translator-A False
+>>>  3 4 srf.0#171-182 UPC True
+>>> task_len: 100
+>>>  4 12 srf.0#99-110 UPC False
+>>>  4 11 focusnews.1#34-44 UPC False
+>>>  4 12 srf.0#207-218 UPC False
+>>>  4 11 focusnews.1#12-22 MSMunich False
+>>>  4 11 focusnews.1#1-11 UPC False
+>>>  4 11 focusnews.1#12-22 UZH-test False
+>>>  4 13 srf.0#14-26 dfki False
+>>>  4 13 focusnews.5#14-26 MSMunich False
+>>>  4 6 srf.0#99-110 UPC True
+>>> task_len: 100
+>>>  5 13 srf.0#14-26 UZH-test False
+>>>  5 13 focusnews.4#1-13 translator-A False
+>>>  5 13 focusnews.5#1-13 SLATTIC False
+>>>  5 11 focusnews.3#12-22 njupt-mtt False
+>>>  5 12 srf.0#111-122 dfki False
+>>>  5 13 srf.0#14-26 MSMunich False
+>>>  5 13 focusnews.5#14-26 njupt-mtt False
+>>>  5 12 focusnews.5#39-50 UPC False
+>>> task_len: 100
+>>>  6 12 srf.0#219-230 njupt-mtt False
+>>>  6 12 srf.0#87-98 UZH-test False
+>>>  6 12 srf.0#171-182 SLATTIC False
+>>>  6 12 focusnews.2#25-36 njupt-mtt False
+>>>  6 12 focusnews.4#26-37 UPC False
+>>>  6 12 srf.0#51-62 UZH-test False
+>>>  6 12 srf.0#159-170 dfki False
+>>>  6 12 srf.0#111-122 njupt-mtt False
+>>>  6 4 srf.0#219-230 njupt-mtt True
+>>> task_len: 100
+>>>  7 11 focusnews.1#23-33 dfki False
+>>>  7 12 srf.0#207-218 SLATTIC False
+>>>  7 12 focusnews.2#37-48 SLATTIC False
+>>>  7 12 srf.0#159-170 UZH-test False
+>>>  7 12 srf.0#219-230 translator-A False
+>>>  7 11 focusnews.1#34-44 SLATTIC False
+>>>  7 12 focusnews.4#26-37 MSMunich False
+>>>  7 12 focusnews.4#14-25 DFKI-MLT False
+>>>  7 6 focusnews.1#23-33 dfki True
+>>> task_len: 100
+>>>  8 12 srf.0#123-134 DFKI-MLT False
+>>>  8 12 srf.0#231-242 njupt-mtt False
+>>>  8 12 srf.0#75-86 UPC False
+>>>  8 12 srf.0#183-194 dfki False
+>>>  8 12 focusnews.5#39-50 SLATTIC False
+>>>  8 12 focusnews.5#39-50 UZH-test False
+>>>  8 12 focusnews.5#27-38 translator-A False
+>>>  8 12 srf.0#87-98 SLATTIC False
+>>>  8 4 srf.0#123-134 DFKI-MLT True
+>>> task_len: 100
+>>>  9 12 srf.0#135-146 dfki False
+>>>  9 12 srf.0#159-170 DFKI-MLT False
+>>>  9 12 srf.0#111-122 DFKI-MLT False
+>>>  9 12 srf.0#231-242 MSMunich False
+>>>  9 12 srf.0#147-158 translator-A False
+>>>  9 12 srf.0#183-194 translator-A False
+>>>  9 12 srf.0#27-38 njupt-mtt False
+>>>  9 12 srf.0#87-98 UPC False
+>>>  9 4 srf.0#135-146 dfki True
+>>> task_len: 100
+>>>  10 12 srf.0#39-50 UPC False
+>>>  10 11 focusnews.1#12-22 translator-A False
+>>>  10 11 focusnews.1#34-44 translator-A False
+>>>  10 13 focusnews.5#1-13 UPC False
+>>>  10 11 focusnews.3#1-11 UZH-test False
+>>>  10 13 focusnews.5#1-13 translator-A False
+>>>  10 11 focusnews.3#23-33 njupt-mtt False
+>>>  10 13 focusnews.5#14-26 DFKI-MLT False
+>>>  10 5 srf.0#39-50 UPC True
+>>> task_len: 100
+>>>  11 12 srf.0#147-158 UZH-test False
+>>>  11 11 focusnews.1#1-11 dfki False
+>>>  11 11 focusnews.3#23-33 translator-A False
+>>>  11 12 focusnews.4#14-25 UPC False
+>>>  11 12 focusnews.5#27-38 UPC False
+>>>  11 12 focusnews.2#13-24 UPC False
+>>>  11 11 focusnews.3#1-11 UPC False
+>>>  11 11 focusnews.3#12-22 dfki False
+>>>  11 8 srf.0#147-158 UZH-test True
+>>> task_len: 100
+>>>  12 11 focusnews.1#34-44 DFKI-MLT False
+>>>  12 11 focusnews.3#12-22 UZH-test False
+>>>  12 11 focusnews.1#1-11 MSMunich False
+>>>  12 12 srf.0#195-206 UPC False
+>>>  12 12 focusnews.2#13-24 SLATTIC False
+>>>  12 12 srf.0#27-38 DFKI-MLT False
+>>>  12 11 focusnews.1#12-22 dfki False
+>>>  12 12 focusnews.2#13-24 translator-A False
+>>>  12 8 focusnews.1#34-44 DFKI-MLT True
+>>> task_len: 100
+>>>  13 12 srf.0#207-218 MSMunich False
+>>>  13 12 srf.0#207-218 njupt-mtt False
+>>>  13 12 srf.0#135-146 translator-A False
+>>>  13 12 focusnews.5#51-62 dfki False
+>>>  13 12 focusnews.5#27-38 dfki False
+>>>  13 12 srf.0#75-86 translator-A False
+>>>  13 12 focusnews.4#26-37 DFKI-MLT False
+>>>  13 12 srf.0#135-146 SLATTIC False
+>>>  13 4 srf.0#207-218 MSMunich True
+>>> task_len: 100
+>>>  14 13 srf.0#14-26 DFKI-MLT False
+>>>  14 13 srf.0#14-26 translator-A False
+>>>  14 12 srf.0#63-74 UPC False
+>>>  14 12 focusnews.4#26-37 dfki False
+>>>  14 13 srf.0#14-26 njupt-mtt False
+>>>  14 10 focusnews.3#34-43 njupt-mtt False
+>>>  14 12 srf.0#99-110 MSMunich False
+>>>  14 11 focusnews.3#12-22 DFKI-MLT False
+>>>  14 4 srf.0#14-26 DFKI-MLT True
+>>> task_len: 100
+>>>  15 13 focusnews.4#1-13 UZH-test False
+>>>  15 11 focusnews.1#34-44 MSMunich False
+>>>  15 13 focusnews.4#1-13 MSMunich False
+>>>  15 11 focusnews.1#12-22 UPC False
+>>>  15 12 srf.0#231-242 UZH-test False
+>>>  15 12 focusnews.5#51-62 DFKI-MLT False
+>>>  15 12 focusnews.2#25-36 UZH-test False
+>>>  15 11 focusnews.1#23-33 DFKI-MLT False
+>>>  15 5 focusnews.4#1-13 UZH-test True
+>>> task_len: 100
+>>>  16 12 focusnews.2#37-48 dfki False
+>>>  16 12 srf.0#171-182 njupt-mtt False
+>>>  16 12 srf.0#135-146 MSMunich False
+>>>  16 12 srf.0#99-110 njupt-mtt False
+>>>  16 12 srf.0#135-146 njupt-mtt False
+>>>  16 12 srf.0#159-170 translator-A False
+>>>  16 12 srf.0#195-206 translator-A False
+>>>  16 12 focusnews.4#38-49 UPC False
+>>>  16 4 focusnews.2#37-48 dfki True
+>>> task_len: 100
+>>>  17 12 srf.0#171-182 UZH-test False
+>>>  17 12 srf.0#51-62 MSMunich False
+>>>  17 12 srf.0#219-230 UPC False
+>>>  17 12 focusnews.4#38-49 dfki False
+>>>  17 12 srf.0#207-218 dfki False
+>>>  17 12 srf.0#171-182 MSMunich False
+>>>  17 12 srf.0#111-122 UPC False
+>>>  17 12 srf.0#147-158 UPC False
+>>>  17 4 srf.0#171-182 UZH-test True
+>>> task_len: 100
+>>>  18 13 srf.0#1-13 MSMunich False
+>>>  18 12 srf.0#63-74 dfki False
+>>>  18 11 focusnews.3#1-11 SLATTIC False
+>>>  18 11 focusnews.1#1-11 SLATTIC False
+>>>  18 13 focusnews.5#1-13 UZH-test False
+>>>  18 13 focusnews.5#1-13 dfki False
+>>>  18 12 focusnews.4#14-25 translator-A False
+>>>  18 12 focusnews.2#13-24 DFKI-MLT False
+>>>  18 3 srf.0#1-13 MSMunich True
+>>> task_len: 100
+>>>  19 11 focusnews.3#23-33 SLATTIC False
+>>>  19 11 focusnews.3#12-22 SLATTIC False
+>>>  19 11 focusnews.1#1-11 UZH-test False
+>>>  19 11 focusnews.3#23-33 UZH-test False
+>>>  19 13 focusnews.4#1-13 njupt-mtt False
+>>>  19 12 focusnews.2#1-12 dfki False
+>>>  19 12 srf.0#231-242 UPC False
+>>>  19 12 srf.0#27-38 dfki False
+>>>  19 7 focusnews.3#23-33 SLATTIC True
+>>> task_len: 100
+>>>  20 12 srf.0#27-38 SLATTIC False
+>>>  20 13 focusnews.4#1-13 SLATTIC False
+>>>  20 10 focusnews.3#34-43 UZH-test False
+>>>  20 10 focusnews.3#34-43 DFKI-MLT False
+>>>  20 12 srf.0#219-230 SLATTIC False
+>>>  20 13 focusnews.4#1-13 dfki False
+>>>  20 13 focusnews.4#1-13 DFKI-MLT False
+>>>  20 10 focusnews.3#34-43 SLATTIC False
+>>>  20 7 srf.0#27-38 SLATTIC True
+>>> task_len: 100
+>>>  21 10 focusnews.3#34-43 MSMunich False
+>>>  21 11 focusnews.1#1-11 DFKI-MLT False
+>>>  21 12 srf.0#99-110 UZH-test False
+>>>  21 11 focusnews.1#23-33 MSMunich False
+>>>  21 13 focusnews.5#1-13 DFKI-MLT False
+>>>  21 12 focusnews.5#27-38 UZH-test False
+>>>  21 12 focusnews.2#1-12 UPC False
+>>>  21 12 srf.0#123-134 SLATTIC False
+>>>  21 7 focusnews.3#34-43 MSMunich True
+>>> task_len: 100
+>>>  22 13 srf.0#1-13 dfki False
+>>>  22 12 srf.0#159-170 njupt-mtt False
+>>>  22 13 focusnews.4#1-13 UPC False
+>>>  22 13 srf.0#1-13 njupt-mtt False
+>>>  22 11 focusnews.1#34-44 njupt-mtt False
+>>>  22 11 focusnews.1#23-33 njupt-mtt False
+>>>  22 12 srf.0#135-146 UPC False
+>>>  22 12 srf.0#99-110 translator-A False
+>>>  22 3 srf.0#1-13 dfki True
+>>> task_len: 100
+>>>  23 12 focusnews.4#14-25 SLATTIC False
+>>>  23 12 srf.0#99-110 SLATTIC False
+>>>  23 12 srf.0#75-86 dfki False
+>>>  23 12 srf.0#87-98 dfki False
+>>>  23 12 focusnews.5#39-50 njupt-mtt False
+>>>  23 12 srf.0#147-158 DFKI-MLT False
+>>>  23 12 srf.0#39-50 MSMunich False
+>>>  23 12 srf.0#39-50 dfki False
+>>>  23 4 focusnews.4#14-25 SLATTIC True
+>>> task_len: 100
+>>>  24 12 focusnews.4#38-49 MSMunich False
+>>>  24 12 srf.0#75-86 njupt-mtt False
+>>>  24 12 focusnews.5#51-62 UPC False
+>>>  24 12 focusnews.2#37-48 translator-A False
+>>>  24 12 srf.0#207-218 translator-A False
+>>>  24 12 focusnews.4#38-49 DFKI-MLT False
+>>>  24 12 focusnews.2#1-12 DFKI-MLT False
+>>>  24 12 focusnews.4#26-37 njupt-mtt False
+>>>  24 4 focusnews.4#38-49 MSMunich True
+>>> task_len: 100
+>>>  25 12 srf.0#219-230 UZH-test False
+>>>  25 12 srf.0#195-206 dfki False
+>>>  25 12 srf.0#39-50 UZH-test False
+>>>  25 12 srf.0#171-182 translator-A False
+>>>  25 12 srf.0#39-50 SLATTIC False
+>>>  25 12 srf.0#183-194 MSMunich False
+>>>  25 12 srf.0#183-194 DFKI-MLT False
+>>>  25 12 srf.0#135-146 DFKI-MLT False
+>>>  25 4 srf.0#219-230 UZH-test True
+>>> task_len: 100
+>>>  26 12 srf.0#159-170 UPC False
+>>>  26 12 focusnews.4#38-49 njupt-mtt False
+>>>  26 12 focusnews.2#37-48 UPC False
+>>>  26 12 srf.0#111-122 MSMunich False
+>>>  26 12 srf.0#207-218 DFKI-MLT False
+>>>  26 12 focusnews.2#1-12 MSMunich False
+>>>  26 12 focusnews.5#27-38 SLATTIC False
+>>>  26 12 srf.0#207-218 UZH-test False
+>>>  26 4 srf.0#159-170 UPC True
+>>> task_len: 100
+>>>  27 11 focusnews.1#1-11 translator-A False
+>>>  27 10 focusnews.3#34-43 UPC False
+>>>  27 13 srf.0#1-13 UPC False
+>>>  27 12 srf.0#27-38 translator-A False
+>>>  27 13 focusnews.5#1-13 MSMunich False
+>>>  27 11 focusnews.1#12-22 SLATTIC False
+>>>  27 10 focusnews.3#34-43 translator-A False
+>>>  27 12 srf.0#195-206 UZH-test False
+>>>  27 8 focusnews.1#1-11 translator-A True
+>>> task_len: 100
+>>>  28 12 srf.0#231-242 dfki False
+>>>  28 12 srf.0#63-74 MSMunich False
+>>>  28 12 srf.0#171-182 DFKI-MLT False
+>>>  28 12 srf.0#195-206 SLATTIC False
+>>>  28 12 srf.0#183-194 SLATTIC False
+>>>  28 12 focusnews.4#38-49 UZH-test False
+>>>  28 12 focusnews.2#25-36 dfki False
+>>>  28 12 srf.0#87-98 DFKI-MLT False
+>>>  28 4 srf.0#231-242 dfki True
+>>> task_len: 100
+>>>  29 11 focusnews.1#34-44 dfki False
+>>>  29 12 focusnews.5#51-62 njupt-mtt False
+>>>  29 13 focusnews.5#1-13 njupt-mtt False
+>>>  29 13 focusnews.5#14-26 dfki False
+>>>  29 13 srf.0#14-26 SLATTIC False
+>>>  29 13 focusnews.5#14-26 UPC False
+>>>  29 12 srf.0#135-146 UZH-test False
+>>>  29 13 srf.0#1-13 translator-A False
+>>> task_len: 100
+>>>  30 13 srf.0#1-13 UZH-test False
+>>>  30 11 focusnews.1#23-33 UZH-test False
+>>>  30 13 focusnews.5#14-26 SLATTIC False
+>>>  30 13 srf.0#1-13 DFKI-MLT False
+>>>  30 11 focusnews.3#23-33 UPC False
+>>>  30 12 focusnews.2#13-24 njupt-mtt False
+>>>  30 13 focusnews.5#14-26 UZH-test False
+>>>  30 11 focusnews.3#12-22 MSMunich False
+>>>  30 3 srf.0#1-13 UZH-test True
+>>> task_len: 100
+>>>  31 12 focusnews.2#37-48 UZH-test False
+>>>  31 11 focusnews.3#23-33 MSMunich False
+>>>  31 11 focusnews.3#12-22 translator-A False
+>>>  31 12 srf.0#87-98 translator-A False
+>>>  31 11 focusnews.3#23-33 DFKI-MLT False
+>>>  31 12 focusnews.2#1-12 SLATTIC False
+>>>  31 11 focusnews.3#23-33 dfki False
+>>>  31 12 focusnews.2#25-36 translator-A False
+>>>  31 8 focusnews.2#37-48 UZH-test True
+>>> task_len: 100
+>>>  32 12 focusnews.5#51-62 translator-A False
+>>>  32 12 srf.0#147-158 dfki False
+>>>  32 12 srf.0#123-134 UZH-test False
+>>>  32 12 focusnews.4#14-25 njupt-mtt False
+>>>  32 12 srf.0#87-98 MSMunich False
+>>>  32 12 focusnews.5#51-62 UZH-test False
+>>>  32 12 focusnews.5#39-50 MSMunich False
+>>>  32 12 focusnews.4#26-37 SLATTIC False
+>>>  32 4 focusnews.5#51-62 translator-A True
+>>> task_len: 100
+>>>  33 12 srf.0#183-194 UZH-test False
+>>>  33 12 focusnews.4#26-37 UZH-test False
+>>>  33 11 focusnews.1#34-44 UZH-test False
+>>>  33 11 focusnews.3#1-11 dfki False
+>>>  33 11 focusnews.1#1-11 njupt-mtt False
+>>>  33 11 focusnews.3#1-11 MSMunich False
+>>>  33 12 srf.0#147-158 SLATTIC False
+>>>  33 11 focusnews.3#1-11 DFKI-MLT False
+>>>  33 9 srf.0#183-194 UZH-test True
+>>> task_len: 100
+>>>  34 12 focusnews.2#13-24 UZH-test False
+>>>  34 12 srf.0#75-86 UZH-test False
+>>>  34 12 srf.0#27-38 MSMunich False
+>>>  34 12 focusnews.4#26-37 translator-A False
+>>>  34 12 focusnews.2#25-36 MSMunich False
+>>>  34 12 srf.0#63-74 DFKI-MLT False
+>>>  34 12 srf.0#63-74 SLATTIC False
+>>>  34 12 srf.0#75-86 MSMunich False
+>>>  34 4 focusnews.2#13-24 UZH-test True
+>>> task_len: 100
+>>>  35 12 srf.0#123-134 MSMunich False
+>>>  35 12 srf.0#111-122 translator-A False
+>>>  35 12 focusnews.5#27-38 DFKI-MLT False
+>>>  35 11 focusnews.1#23-33 SLATTIC False
+>>>  35 11 focusnews.1#23-33 translator-A False
+>>>  35 11 focusnews.3#12-22 UPC False
+>>>  35 11 focusnews.3#1-11 translator-A False
+>>>  35 11 focusnews.1#23-33 UPC False
+>>>  35 9 srf.0#123-134 MSMunich True
+>>> task_len: 100
+>>>  36 13 srf.0#1-13 SLATTIC False
+>>>  36 11 focusnews.1#12-22 njupt-mtt False
+>>>  36 13 focusnews.5#14-26 translator-A False
+>>>  36 11 focusnews.1#12-22 DFKI-MLT False
+>>>  36 11 focusnews.3#1-11 njupt-mtt False
+>>>  36 13 srf.0#14-26 UPC False
+>>>  36 10 focusnews.3#34-43 dfki False
+>>>  36 12 focusnews.2#25-36 DFKI-MLT False
+>>>  36 6 srf.0#1-13 SLATTIC True
+>>> task_len: 100
+>>>  37 12 srf.0#99-110 DFKI-MLT False
+>>>  37 12 srf.0#87-98 njupt-mtt False
+>>>  37 12 srf.0#99-110 dfki False
+>>>  37 12 focusnews.2#1-12 UZH-test False
+>>>  37 12 srf.0#123-134 UPC False
+>>>  37 12 srf.0#195-206 DFKI-MLT False
+>>>  37 12 focusnews.2#13-24 MSMunich False
+>>>  37 12 srf.0#219-230 DFKI-MLT False
+>>>  37 4 srf.0#99-110 DFKI-MLT True
+>>> task_len: 100
+>>>  38 12 srf.0#147-158 njupt-mtt False
+>>>  38 12 focusnews.5#39-50 dfki False
+>>>  38 12 focusnews.4#14-25 UZH-test False
+>>>  38 12 srf.0#39-50 translator-A False
+>>>  38 12 srf.0#63-74 UZH-test False
+>>>  38 12 srf.0#39-50 njupt-mtt False
+>>>  38 12 focusnews.2#37-48 njupt-mtt False
+>>>  38 12 focusnews.2#1-12 translator-A False
+>>>  38 4 srf.0#147-158 njupt-mtt True
+>>> task_len: 100
+>>>  39 12 srf.0#219-230 dfki False
+>>>  39 12 focusnews.2#25-36 SLATTIC False
+>>>  39 12 srf.0#111-122 SLATTIC False
+>>>  39 12 srf.0#147-158 MSMunich False
+>>>  39 12 focusnews.2#37-48 MSMunich False
+>>>  39 12 srf.0#195-206 njupt-mtt False
+>>>  39 12 focusnews.5#51-62 MSMunich False
+>>>  39 12 srf.0#75-86 SLATTIC False
+>>>  39 4 srf.0#219-230 dfki True
+>>> task_len: 100
+>>>  40 12 srf.0#231-242 SLATTIC False
+>>>  40 12 focusnews.2#13-24 dfki False
+>>>  40 12 srf.0#159-170 MSMunich False
+>>>  40 12 srf.0#51-62 njupt-mtt False
+>>>  40 12 srf.0#219-230 MSMunich False
+>>>  40 12 srf.0#63-74 njupt-mtt False
+>>>  40 12 focusnews.2#1-12 njupt-mtt False
+>>>  40 12 srf.0#231-242 DFKI-MLT False
+>>>  40 4 srf.0#231-242 SLATTIC True
+>>> task_len: 100
+>>>  41 12 focusnews.5#27-38 njupt-mtt False
+>>>  41 12 srf.0#171-182 dfki False
+>>>  41 12 srf.0#51-62 dfki False
+>>>  41 12 srf.0#63-74 translator-A False
+>>>  41 12 srf.0#123-134 dfki False
+>>>  41 12 focusnews.5#27-38 MSMunich False
+>>>  41 12 srf.0#111-122 UZH-test False
+>>>  41 12 srf.0#123-134 translator-A False
+>>>  41 4 focusnews.5#27-38 njupt-mtt True
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 1 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 2 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 3 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 4 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 5 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 6 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 7 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 8 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 9 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 10 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 11 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 12 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 13 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 14 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 15 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 16 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 17 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 18 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 19 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 20 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 21 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 22 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 23 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 24 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 25 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 26 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 27 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 28 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 29 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 30 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 31 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 32 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 33 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 34 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 35 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 36 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 37 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 38 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 39 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 40 ... OK
+Creating output/batches.slttest2022.sgg-deu.json, batch no. 41 ... OK
+Total tasks: 41
+Total docs:  328
+Total sys:   8 ['DFKI-MLT', 'MSMunich', 'SLATTIC', 'UPC', 'UZH-test', 'dfki', 'njupt-mtt', 'translator-A']
