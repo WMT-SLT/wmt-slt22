@@ -11,6 +11,8 @@ Scripts:
 * `generate-batches.sh` - produces batches for Appraise
 * `generate-snippets.sh` - splits documents into 10-segment long chunks
 * `generate-ranking.sh` - computes ranking from scores exported from Appraise
+* `scripts/iaa.py` - for generating intra-annotator agreements
+* `scripts/create_histogram.py` - for generating the histogram that appears in the paper
 
 Data:
 * `slttest2022.dsgs-de.all.xml` - the official test set
