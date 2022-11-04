@@ -1,0 +1,11 @@
+2022-11-04.18-22-23 git remote add automatic-eval git@github.com:DFKI-SignLanguage/WMT-SLT22.git 
+2022-11-04.18-22-30 git status
+2022-11-04.18-22-34 git 
+2022-11-04.18-22-44 cat .git/config
+2022-11-04.18-23-07 git fetch automatic-eval 
+2022-11-04.18-23-46 git checkout -b automatic-eval automatic-eval/main 
+2022-11-04.18-24-06 git checkout main 
+2022-11-04.18-24-17 git merge automatic-eval
+2022-11-04.18-24-28 git merge automatic-eval --allow-unrelated-histories 
+2022-11-04.18-24-44 rm README.md 
+2022-11-04.18-24-46 git merge automatic-eval --allow-unrelated-histories 

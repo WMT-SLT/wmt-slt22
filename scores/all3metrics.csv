@@ -1,0 +1,25 @@
+,BLEU,chrF,BLEURT
+{\bf UZH (Baseline)}   , 0.12,  5.5,102
+{\bf DFKI-Berlin\_slt} , 0.08, 18.2,109
+DFKI-MLT.1       , 0.07,  6.6,100
+{\bf DFKI-MLT.2} , 0.11,  6.8,83
+DFKI-MLT.3       , 0.08,  6.5,75
+DFKI-MLT.4       , 0.02,  3.6,66
+DFKI-MLT.5       , 0.04,  5.4,78
+MSMunich.1       , 0.44, 17.1,166
+{\bf MSMunich.2} , 0.56, 17.4,150
+{\bf njupt-mtt.1}, 0.09, 14.6,127
+njupt-mtt.2      , 0.10, 14.1,117
+{\bf slattic.1}  , 0.25, 19.5,74
+slattic.2        , 0.20, 17.9,92
+slattic.3        , 0.14, 17.4,96
+slattic.4        , 0.19, 19.9,88
+slattic.5        , 0.18, 17.9,107
+slattic.6        , 0.07, 15.0,103
+SLT-UPC.1        , 0.34, 15.6,131
+SLT-UPC.2        , 0.35, 16.2,136
+SLT-UPC.3        , 0.41, 15.5,144
+SLT-UPC.4        , 0.28, 12.2,113
+SLT-UPC.5        , 0.24, 12.0,102
+SLT-UPC.6        , 0.28, 12.2,113
+{\bf SLT-UPC.7}  , 0.50, 12.3,111
